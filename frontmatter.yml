@@ -1,0 +1,8 @@
+title: Camera
+slug: sample-camera
+page_title: Camera | Apache Cordova Sample | Telerik Platform
+description: This sample shows you how to use the Camera Apache Cordova core plugin to access the camera and the image gallery of your mobile device. 
+tags: Apache Cordova, core, camera, image gallery, iOS, Android, Windows Phone
+publish: true
+content_filter: true
+apis: cordova.camera cordova.camera.getPicture

@@ -1,0 +1,48 @@
+{
+  "ProjectGuid": "616c03df-f876-4e24-a59a-ed3b4ea1366f",
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "AppIdentifier": "com.telerik.camerasample",
+  "ProjectName": "Camera Sample",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "iOSStatusBarStyle": "Default",
+  "BundleVersion": "1.0",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "AndroidVersionCode": "1",
+  "AndroidHardwareAcceleration": "true",
+  "FrameworkVersion": "4.0.0",
+  "CorePlugins": [
+    "cordova-plugin-camera",
+    "cordova-plugin-device",
+    "cordova-plugin-splashscreen",
+    "cordova-plugin-whitelist"
+  ],
+  "DisplayName": "Camera",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_HD720P",
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA"
+  ],
+  "Author": "",
+  "WP8Publisher": "",
+  "WP8TileTitle": "",
+  "WP8Capabilities": [],
+  "iOSBackgroundMode": [],
+  "WP8Requirements": [],
+  "Description": "Camera Sample",
+  "Framework": "Cordova",
+  "projectVersion": 1,
+  "WP8PublisherID": "{c6853bc9-e482-4b2a-bfea-9e399ed65afd}",
+  "WP8ProductID": "{3e0ef43c-1e82-4714-9427-f181f0e16bb6}",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.camerasample",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WPSdk": "8.1"
+}
